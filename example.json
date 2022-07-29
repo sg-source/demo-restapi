@@ -1,0 +1,78 @@
+[
+{
+    "user": "john",
+	"check_number": 12345,
+    "shop": "NIKE",
+	"product": [
+        {
+            "name": "Shoes",
+            "count": 2,
+            "price": 13245,
+            "product_sum": 100
+        }
+    ],
+	"date_of_issue": "2010-09-27 15:05:02",
+	"total_sum": 12345	
+},
+{
+    "user": "Will",
+	"check_number": 12345,
+    "shop": "REEBOK",
+	"product": [
+        {
+            "name": "Chair",
+            "count": 2,
+            "price": 1800,
+            "product_sum": 13245
+        },
+		{
+            "name": "Glass",
+            "count": 2,
+            "price": 1550,
+            "product_sum": 13245
+        }
+    ],
+	"date_of_issue": "2021-09-27 15:05:02"
+},
+{
+    "user": "John",
+	"check_number": 12345,
+    "shop": "ZARA",
+	"product": [
+        {
+            "name": "Pen",
+            "count": 10,
+            "price": 13245,
+            "product_sum": 13245
+        },
+		{
+            "name": "Car",
+            "count": 10,
+            "price": 13245,
+            "product_sum": 13245
+        }
+    ],
+	"date_of_issue": "2021-09-27 15:05:02",
+	"total_sum": 12345	
+},
+{
+    "user": "Alex",
+	"check_number": 12345,
+    "shop": "BMW",
+	"product": [
+        {
+            "name": "Pen",
+            "count": 10,
+            "price": 13245,
+            "product_sum": 100
+        },
+		{
+            "name": "Car",
+            "count": 10,
+            "price": 13245
+        }
+    ],
+	"date_of_issue": "2012-09-27 15:05:02",
+	"total_sum": 12345	
+}
+]
