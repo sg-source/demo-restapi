@@ -1,6 +1,6 @@
 from rest_framework import status
 from rest_framework.test import APITestCase
-from restapp.models import Receipt
+from .models import Receipt
 
 
 data = {"user": "Will",
