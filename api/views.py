@@ -56,7 +56,7 @@ class UserProductsView(APIView):
 
 class UserShopsView(APIView):
     """
-    Get user infarmaton about products
+    Get user informaton about products
     """
     def get(self, request, user):
         receipts = Receipt.objects.all().filter(user__iexact=user).values_list('shop').distinct()
